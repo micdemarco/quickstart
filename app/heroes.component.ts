@@ -5,7 +5,6 @@ import { HeroService } from './hero.service';
 import { OnInit } from '@angular/core';
 
 @Component({
-  moduleId: module.id,
   selector: 'my-heroes',
   templateUrl: 'heroes.component.html',
   styleUrls: [ 'heroes.component.css' ]
